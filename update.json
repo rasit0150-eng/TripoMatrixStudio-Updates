@@ -1,0 +1,11 @@
+{
+  "version": "1.0.4",
+  "minimum_version": "1.0.4",
+  "setup_url": "",
+  "sha256": "",
+  "release_notes": [
+    "İlk otomatik güncelleme sistemi",
+    "Güncelleme kontrol butonu eklendi"
+  ],
+  "mandatory": false
+}
