@@ -1,17 +1,13 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.9",
   "minimum_version": "1.0.4",
-  "setup_url": "https://github.com/rasit0150-eng/TripoMatrixStudio-Updates/releases/download/v1.0.7/TripoMatrixStudio_Setup_v1_0_7.exe",
-  "sha256": "",
+  "setup_url": "https://github.com/rasit0150-eng/TripoMatrixStudio-Updates/releases/download/v1.0.9/TripoMatrixStudio_Setup_v1_0_9.exe",
+  "sha256": "aa8527bace01809f58a58b710879d9c742f979b0af946d1873f69220e9cfedaf",
   "release_notes": [
-    "Automatic update engine",
-    "GitHub Release updater",
-    "Download progress",
-    "Download speed",
-    "Remaining time",
-    "Tripo v3.1 support",
-    "FAL SeedVR 4x support",
-    "Original Tripo mesh preserved"
+    "Automatic release",
+    "GitHub API Release Builder",
+    "Setup.exe asset upload",
+    "update.json auto publish"
   ],
   "mandatory": false
 }
