@@ -1,8 +1,8 @@
 {
-  "version": "16.0.0",
+  "version": "16.1.0",
   "minimum_version": "1.0.4",
-  "setup_url": "https://github.com/rasit0150-eng/TripoMatrixStudio-Updates/releases/download/v16.0.0/TripoMatrixStudio_Setup_v16_0_0.exe",
-  "sha256": "226d00993517a26627d8a659af9f92e12e33e70c1107bf9d8907f1269c825bef",
+  "setup_url": "https://github.com/rasit0150-eng/TripoMatrixStudio-Updates/releases/download/v16.1.0/TripoMatrixStudio_Setup_v16_1_0.exe",
+  "sha256": "58859da419a75842b6d13fee7db72696e3893c051569ba69b0fbcec654210694",
   "release_notes": [
     "Automatic release",
     "GitHub API Release Builder",
