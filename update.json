@@ -2,7 +2,7 @@
   "version": "1.0.9",
   "minimum_version": "1.0.4",
   "setup_url": "https://github.com/rasit0150-eng/TripoMatrixStudio-Updates/releases/download/v1.0.9/TripoMatrixStudio_Setup_v1_0_9.exe",
-  "sha256": "aa8527bace01809f58a58b710879d9c742f979b0af946d1873f69220e9cfedaf",
+  "sha256": "bcf9454336d9584df7df9c4f18ee485d4c0d2b917a920540e95b82b638b945ea",
   "release_notes": [
     "Automatic release",
     "GitHub API Release Builder",
