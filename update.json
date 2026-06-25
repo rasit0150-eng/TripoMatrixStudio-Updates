@@ -1,11 +1,17 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.7",
   "minimum_version": "1.0.4",
-  "setup_url": "",
+  "setup_url": "https://github.com/rasit0150-eng/TripoMatrixStudio-Updates/releases/download/v1.0.7/TripoMatrixStudio_Setup_v1_0_7.exe",
   "sha256": "",
   "release_notes": [
-    "İlk otomatik güncelleme sistemi",
-    "Güncelleme kontrol butonu eklendi"
+    "Automatic update engine",
+    "GitHub Release updater",
+    "Download progress",
+    "Download speed",
+    "Remaining time",
+    "Tripo v3.1 support",
+    "FAL SeedVR 4x support",
+    "Original Tripo mesh preserved"
   ],
   "mandatory": false
 }
